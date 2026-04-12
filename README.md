@@ -2,21 +2,18 @@
 
 **A Karpathy-style LLM Wiki built by an educator.**
 
-I'm an Academic Dean at an healthcare education post-secondary school. Two years ago I didn't know what GitHub was. Now, I saw [Andrej Karpathy's post about LLM Knowledge Bases](https://x.com/karpathy/status/2039805659525644595) and thought: *I could do this with my own collection.* So I just started building.
+A Karpathy-style LLM Wiki on AI literacy, built by a TCM educator and AI adopter. A non-developer's work.
+I curate AI-related articles, papers, and posts for my teaching and research. This wiki compiles 81 sources into a structured, cross-linked Obsidian vault using the LLM Wiki pattern proposed by Andrej Karpathy.
 
 ---
 
 ## The Problem
 
-Since mid-2025, I've been curating AI-related articles, papers, and posts through an automated pipeline (Make.com → Claude API → Notion DB + Google Drive). 84 items accumulated. Each one sat as an independent row in a database. Isolated. Unconnected.
-
-I couldn't see that a paper on AI hallucination in radiology and a blog post on metacognitive laziness were actually talking about the same underlying problem. I couldn't find the gaps, the questions my collection *wasn't* asking.
+I've been curating AI-related articles, papers, and posts through an automated pipeline (Make.com → Claude API → Notion DB + Google Drive). About a hundred items accumulated. But each one sat as an independent row in a database. 
 
 ## The Trigger
 
-On April 2, 2026, Karpathy posted about "LLM Knowledge Bases" (19M+ views). The core idea: RAG rediscovers knowledge every time. A wiki compounds it.
-
-I opened Claude Code and started building.
+On April 2, 2026, Karpathy posted about "LLM Knowledge Bases" (19M+ views). The core idea: RAG rediscovers knowledge every time. A wiki *compounds* it. I opened Claude Code and started building.
 
 ## The Result
 
