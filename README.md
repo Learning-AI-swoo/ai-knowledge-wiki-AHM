@@ -2,7 +2,7 @@
 
 **A Karpathy-style LLM Wiki built by an educator.**
 
-I'm an Academic Dean at a small acupuncture school. Two years ago I didn't know what GitHub was. I saw [Andrej Karpathy's post about LLM Knowledge Bases](https://x.com/karpathy/status/2039805659525644595) and thought: *I could do this with my own collection.* So I just started building.
+I'm an Academic Dean at an healthcare education post-secondary school. Two years ago I didn't know what GitHub was. Now, I saw [Andrej Karpathy's post about LLM Knowledge Bases](https://x.com/karpathy/status/2039805659525644595) and thought: *I could do this with my own collection.* So I just started building.
 
 ---
 
