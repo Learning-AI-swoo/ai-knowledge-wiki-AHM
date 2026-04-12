@@ -72,18 +72,8 @@ The overarching research agenda for AI-TCM intersection. With 28+ source connect
 ### 4. [[AI Champion Micro-Credential]] — Priority 3
 A structured credential program for AI literacy targeting faculty and health professionals. Competes in a market increasingly shaped by [[openai-certification-jobs-platform|OpenAI's 10M certification initiative]] (#034).
 
-**Curriculum pillars identified from wiki**:
+**Curriculum pillars identified from wiki**
 
-| Module | Key Sources |
-|---|---|
-| AI Landscape & Capabilities | [[oecd-ai-capability-indicators]] (#016), [[using-ai-right-now-quick-guide]] (#015) |
-| Critical Thinking → Prompt Engineering | [[iterative-prompt-design-ai-literacy]] (#024), [[Prompt Engineering]] |
-| Context Engineering | [[context-engineering-ai-agents]] (#044), [[Context Engineering]] |
-| Evaluating AI for Your Needs | [[assessing-ai-job-interviews]] (#051), [[LLM Benchmarks]] |
-| Cognitive Risks & Mitigation | [[Cognitive Debt]], [[metacognitive-laziness-ai]] (#062) |
-| AI Ethics & Integrity | [[ai-rethinking-academic-integrity]] (#052), [[genai-transparency-framework-education]] (#075) |
-| Medical AI Applications | [[Medical AI]] (21 sources) |
-| Equity & Access | [[ai-education-equity-crisis]] (#073), [[redefining-literacy-age-of-ai]] (#065) |
 
 ### AI Workshop for Faculty
 Faculty-facing training sessions drawing from the wiki's 64 sources tagged for "AI Workshop for Faculty" in the original catalog. Focus areas:
