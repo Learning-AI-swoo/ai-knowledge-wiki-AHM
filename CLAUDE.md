@@ -87,3 +87,5 @@ tags: [tags]
 
 - 84개를 한꺼번에 처리하지 않는다. 10-15개씩 배치.
 - 각 배치 후 `index.md`, `log.md` 업데이트.
+
+## Ingest Workflow (새 자료 추가 시)
