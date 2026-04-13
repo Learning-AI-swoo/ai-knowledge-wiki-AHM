@@ -44,10 +44,10 @@ I need a few hundred sources before the knowledge structure and gap discovery be
 ### Full Graph: 130 pages, 220+ links
 ![Full graph view](assets/graph-full.png)
 
-### Node Selected: AI Champion Micro-Credential highlighted
+### Node Selected: Mechanical Intepretability for TCM
 ![Node selected view](assets/graph-node-selected.png)
 
-### Local Graph: Mechanical Interpretability for TCM
+### Local Graph: Mechanical Interpretability for TCM - Wiki and Local Graph
 ![Local graph view](assets/graph-local.png)
 
 ---
